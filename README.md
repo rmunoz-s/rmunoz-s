@@ -5,6 +5,12 @@
 𝚂𝚘𝚢 𝚞𝚗 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚊𝚍𝚘𝚛 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚊𝚙𝚊𝚜𝚒𝚘𝚗𝚊𝚍𝚘 𝚙𝚘𝚛 𝚕𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐í𝚊 𝚢 𝚎𝚕 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘. 𝙼𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚘 𝚎𝚗 𝚟𝚊𝚛𝚒𝚘𝚜 𝚕𝚎𝚗𝚐𝚞𝚊𝚓𝚎𝚜 𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚌𝚒ó𝚗 𝚢 𝚜𝚒𝚐𝚘 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚎𝚗𝚍𝚘 𝚢𝚊 𝚚𝚞𝚎 𝚎𝚜𝚝𝚘 𝚎𝚜 𝚖𝚒 𝚙𝚊𝚜𝚒ó𝚗. 𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚒𝚍𝚘 𝚊 𝚖𝚒 𝙶𝚒𝚝𝙷𝚞𝚋.
 
 ---
+## 📚 Fomación Autodidacta
+
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 ## 🛠️ Tecnologías que utilizo
 
@@ -26,6 +32,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
