@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Roberto Muñoz]
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub)
+![Banner](https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 
-Soy un desarrollador apasionado por la tecnología, la innovación y el aprendizaje continuo. Me especializo en varios lenguajes de programación y herramientas que me permiten crear soluciones eficientes y creativas.
+Soy un desarrollador full-stack apasionado por la tecnología y el aprendizaje continuo. Me especializo en varios lenguajes de programación y sigo aprendiendo ya que esto es mi pasión. Bienvenido a mi GitHub. 
 
 ---
 
