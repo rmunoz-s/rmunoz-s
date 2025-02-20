@@ -45,10 +45,9 @@
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Mis redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertomunozsoler/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=&logoColor=white)]((https://github.com/rmunoz-s/PortfolioGitHub))
 
 ---
 
@@ -59,11 +58,11 @@
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivos a medio-corto plazo
 
-- Aprender nuevas tecnologías.
-- Contribuir a proyectos open source.
-- Desarrollar aplicaciones y soluciones propias.
+- Aprender nuevas tecnologías!.
+- Empezar a contribuir en proyectos open source.
+- Desarrollarme a nivel profesional lo máximo posible.
 
 ---
 
