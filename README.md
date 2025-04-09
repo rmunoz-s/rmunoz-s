@@ -40,8 +40,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rmunoz-s&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rmunoz-s&layout=compact&theme=radical)
+
 
 ---
 
